@@ -4,7 +4,6 @@
 
 #include "aboutdialog.h"
 #include "plugindialog.h"
-#include "mainwindow.h"
 
 #include "windowkeeper.h"
 #include "windowstatusbar.h"
